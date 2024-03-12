@@ -1,8 +1,9 @@
-Airbnb Clone : WANDERLUST
+#Airbnb Clone : WANDERLUST
 
-Overview: This project is a full-stack web application developed as a clone of Airbnb using the MERN stack (MongoDB, Express.js, React.js, Node.js). It aims to replicate the core functionality of Airbnb, allowing users to search for accommodations, view details, make bookings, and manage their listings.
+##Overview:<br> This project is a full-stack web application developed as a clone of Airbnb using the MERN stack (MongoDB, Express.js, React.js, Node.js). It aims to replicate the core functionality of Airbnb, allowing users to search for accommodations, view details, make bookings, and manage their listings.
 
 Features:
+
 (1) USER AUTHENTICATION : Users can sign up, log in, and log out securely. Passwords are hashed for security.
 <img width="1120" alt="image" src="https://github.com/Ayush8868/Wanderlust/assets/99401047/baeb4c5c-9fd6-4fa1-92db-7b22baa005bd">
 
